@@ -1,10 +1,13 @@
 README - Exercício Challenger Alura Store
+
 📌 Visão Geral
+
 Este projeto consiste em uma análise completa dos dados de vendas da Alura Store, utilizando Python e suas principais bibliotecas para Data Science. O objetivo é extrair insights valiosos sobre desempenho comercial, faturamento e eficiência operacional.
 
 🛠️ Tecnologias e Práticas Utilizadas
 🔧 Ferramentas Principais
 Python 3.10+
+
 
 Pandas - Para manipulação e análise de dados
 
